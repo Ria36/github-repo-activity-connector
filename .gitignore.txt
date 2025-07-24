@@ -1,0 +1,12 @@
+# Maven
+target/
+*.log
+*.class
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
+
+# OS junk
+Thumbs.db

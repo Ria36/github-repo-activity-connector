@@ -1,0 +1,4 @@
+com\github\connector\App.class
+com\github\connector\model\CommitInfo.class
+com\github\connector\model\RepoInfo.class
+com\github\connector\service\GitHubApiService.class
